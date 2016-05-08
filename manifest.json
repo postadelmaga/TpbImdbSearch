@@ -6,7 +6,9 @@
 	"permissions": [
 		"tabs",
 		"http://*.thepiratebay.cr/",
-		"http://thepiratebay.cr/"
+		"http://thepiratebay.cr/",
+		"https://*.thepiratebay.cr/",
+		"https://thepiratebay.cr/",
 	],   
 	"icons": {
 		"16": "images/icon.png",
